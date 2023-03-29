@@ -10,8 +10,8 @@
   
  ## Datas dos Sprints:
  
-* Sprint 1 - 13/3 - 02/04
-* Sprint 2 - 03/04 - 23/04
-* Sprint 3 - 24/04 - 14/05
-* Sprint 4 - 15/05 - 04/06
+* Sprint 1 - 13/3 - 05/04
+* Sprint 2 - 06/04 - 26/04
+* Sprint 3 - 27/04 - 17/05
+* Sprint 4 - 18/05 - 07/06
 
