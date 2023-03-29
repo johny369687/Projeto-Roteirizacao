@@ -8,7 +8,7 @@
   * Rhuan
   
   
- ## Datas dos Sprints:
+ ## Datas dos Sprints (Entregas):
  
 * Sprint 1 - 13/3 - 05/04
 * Sprint 2 - 06/04 - 26/04
