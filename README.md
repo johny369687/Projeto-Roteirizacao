@@ -1,8 +1,9 @@
 # Projeto-Roteirizacao
 
 ## Membros:
-  PO: Janna <br />
-  Master Project: João Pedro <br />
-  Reinaldo Siqueira Ramos <br />
-  Marcelo Rodolfo Pereira Batista <br />
+  * PO: Janna 
+  * Master Project: João Pedro 
+  * Reinaldo Siqueira Ramos 
+  * Marcelo Rodolfo Pereira Batista
+  * Rhuan
   
