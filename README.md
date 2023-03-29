@@ -1,12 +1,6 @@
 # Projeto-Roteirizacao
 
-## Membros:
-  * PO: Janna 
-  * Master Project: João Pedro 
-  * Reinaldo Siqueira Ramos 
-  * Marcelo Rodolfo Pereira Batista
-  * Rhuan
-  
+
   
  ## Datas dos Sprints (Entregas):
  
@@ -15,3 +9,10 @@
 * Sprint 3 - 27/04 - 17/05
 * Sprint 4 - 18/05 - 07/06
 
+## Membros:
+  * PO: Janna 
+  * Master Project: João Pedro 
+  * Reinaldo Siqueira Ramos 
+  * Marcelo Rodolfo Pereira Batista
+  * Rhuan
+  
