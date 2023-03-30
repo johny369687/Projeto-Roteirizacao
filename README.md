@@ -25,5 +25,4 @@
 
 
 ### LinkedIn:
-  (https://github.com/johny369687/Projeto-Roteirizacao/blob/main/Assets/ImagensLinkedIn/fotoJoaoPedro.jpg)
   [João Pedro Félix Vicente](https://www.linkedin.com/in/jo%C3%A3o-pedro-f%C3%A9lix-vicente/)
