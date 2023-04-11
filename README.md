@@ -29,7 +29,7 @@
   * Master Project: João Pedro 
   * Janna Isy
   * Marcelo Rodolfo Pereira Batista
-  * Rhuan
+  * Rhuan Henrique
   
 
 ## Técnologias
