@@ -8,7 +8,7 @@
  ## Datas dos Sprints (Entregas):
 
 >>### Sprint 1 - 13/3 - 05/04
->>  - Encontrar Problemas no Banco de Dados
+>>  - [x] Encontrar Problemas no Banco de Dados
 >>  - Definir problema
 >>  - Criar Esboço de Dashboard
 >
