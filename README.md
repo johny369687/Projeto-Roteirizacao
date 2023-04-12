@@ -13,9 +13,10 @@
 >>  - Criar Esboço de Dashboard
 >
 >>### Sprint 2 - 06/04 - 26/04
->> - Encontrar Problemas no Banco de Dados
->>  - Definir problema
->>  - Criar Esboço de Dashboard
+>>  - Analisar e refinar os dados 
+>>  - Desenvolver o uso das ferramentas
+>>  - Assignar tarefas no Jira
+>>  - Validar proposta com o cliente
 >>
 >>
 >
