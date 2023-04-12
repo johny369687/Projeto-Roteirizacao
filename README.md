@@ -1,5 +1,4 @@
-#![grafico pizza](https://user-images.githubusercontent.com/127357087/231610099-189bb62e-3492-46e3-8b2b-a0c03c59eca1.jpg)
- Projeto Roteirização
+Projeto Roteirização
 
 # Objetivo:
 
