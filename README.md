@@ -13,10 +13,10 @@
 >>  - [x] Criar Esboço de Dashboard </br>
 >
 >>### Sprint 2 - 06/04 - 26/04
->>  - [ ] Analisar e refinar os dados </br>
->>  - [ ] Desenvolver o uso das ferramentas </br>
+>>  - [x] Analisar e refinar os dados </br>
+>>  - [x] Desenvolver o uso das ferramentas </br>
 >>  - [x] Assignar tarefas no Jira </br>
->>  - [ ] Validar proposta com o cliente </br>
+>>  - [x] Validar proposta com o cliente </br>
 >>
 >>
 >
@@ -39,8 +39,7 @@
   
 
 ## Tecnologias
-
-  ![tecnologias](https://user-images.githubusercontent.com/127357087/231601080-de681b3f-739e-4f66-a30f-543f4da6501a.png)
+  <img src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" width="200px" height="100px"> <img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" width="200px" height="100px"> <img src="https://images.ctfassets.net/8j5aqoy0ts8s/7kGDQeqA19pWs9sra18nb5/9a431dc04251e57027d94b2d510cb762/jira_white_on_blue_logo.png" width="200px" height="100px">
 
 
 ### LinkedIn:
