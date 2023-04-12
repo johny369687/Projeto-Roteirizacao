@@ -28,7 +28,7 @@
 
 ## Membros:
   * PO: Marcelo Rodolfo Pereira Batista  
-  * Master Project: João Pedro 
+  * Scrum Master: João Pedro 
   * Janna Isy
   * Reinaldo Siqueira Ramos
   * Rhuan Henrique
