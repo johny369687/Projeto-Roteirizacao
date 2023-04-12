@@ -9,19 +9,19 @@
 
 >>### Sprint 1 - 13/3 - 05/04
 >>  [x] Encontrar Problemas no Banco de Dados </br>
->>  [x] Definir problema
->>  [x] Criar Esboço de Dashboard
+>>  [x] Definir problema </br>
+>>  [x] Criar Esboço de Dashboard </br>
 >
 >>### Sprint 2 - 06/04 - 26/04
->>  - Analisar e refinar os dados 
->>  - Desenvolver o uso das ferramentas
->>  - Assignar tarefas no Jira
->>  - Validar proposta com o cliente
+>>  [x] Analisar e refinar os dados </br>
+>>  [x] Desenvolver o uso das ferramentas </br>
+>>  [x] Assignar tarefas no Jira </br>
+>>  [x] Validar proposta com o cliente </br>
 >>
 >>
 >
 >>### Sprint 3 - 27/04 - 17/05
->> [ ] Aprimorar o Dashboard
+>> [ ] Aprimorar o Dashboard </br>
 >>
 >>
 >
