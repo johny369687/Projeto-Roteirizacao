@@ -25,10 +25,10 @@
 >>
 
 ## Membros:
-  * PO: Reinaldo Siqueira Ramos 
-  * Master Project: João Pedro 
+  * PO: Marcelo Rodolfo Pereira Batista 
+  * Scrum Master: João Pedro 
   * Janna Isy
-  * Marcelo Rodolfo Pereira Batista
+  * Reinaldo Siqueira Ramos
   * Rhuan Henrique
   
 
