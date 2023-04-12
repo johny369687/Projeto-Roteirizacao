@@ -2,7 +2,8 @@
 
 # Objetivo:
 
-## _"Desenvolver um Dashboard visual em Power BI que apresente uma análise detalhada dos dados envolvendo a roteirização apresentados, de forma que atenda a solicitação do cliente e gere um impacto positivo no projeto."_
+![Sem título](https://user-images.githubusercontent.com/127357087/231608323-36541d6b-7d29-4d4a-925b-01cc943af7bf.png)
+
   
  ## Datas dos Sprints (Entregas):
 
@@ -12,7 +13,9 @@
 >>  - Criar Esboço de Dashboard
 >
 >>### Sprint 2 - 06/04 - 26/04
->>
+>> - Encontrar Problemas no Banco de Dados
+>>  - Definir problema
+>>  - Criar Esboço de Dashboard
 >>
 >>
 >
@@ -36,7 +39,7 @@
 
 ## Tecnologias
 
- <img src="https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg" width="200" height="100"> <img src="https://images.ctfassets.net/8j5aqoy0ts8s/7kGDQeqA19pWs9sra18nb5/9a431dc04251e57027d94b2d510cb762/jira_white_on_blue_logo.png" width="200" height="100">   <img src="https://nlproimage.s3.amazonaws.com/powerbi1630280386" width="200" height="100">
+  ![tecnologias](https://user-images.githubusercontent.com/127357087/231601080-de681b3f-739e-4f66-a30f-543f4da6501a.png)
 
 
 ### LinkedIn:
