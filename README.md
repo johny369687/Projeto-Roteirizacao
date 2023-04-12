@@ -1,8 +1,8 @@
-# Projeto Roteirizacao
+# Projeto Roteirização
 
 # Objetivo:
 
-## **"Desenvolver um Dashboard visual em Power BI que apresente uma análise detalhada dos dados envolvendo a roteirização apresentados, de forma que atenda a solicitação do cliente e gere um impacto positivo no projeto."**
+## _"Desenvolver um Dashboard visual em Power BI que apresente uma análise detalhada dos dados envolvendo a roteirização apresentados, de forma que atenda a solicitação do cliente e gere um impacto positivo no projeto."_
   
  ## Datas dos Sprints (Entregas):
 
