@@ -36,7 +36,7 @@
 
 ## Tecnologias
 
-  ![tecnologias](https://user-images.githubusercontent.com/127357087/231601080-de681b3f-739e-4f66-a30f-543f4da6501a.png)
+ <img src="https://enotas.com.br/blog/wp-content/uploads/2021/02/GitHub.jpg" width="200" height="100"> <img src="https://images.ctfassets.net/8j5aqoy0ts8s/7kGDQeqA19pWs9sra18nb5/9a431dc04251e57027d94b2d510cb762/jira_white_on_blue_logo.png" width="200" height="100">   <img src="https://nlproimage.s3.amazonaws.com/powerbi1630280386" width="200" height="100">
 
 
 ### LinkedIn:
