@@ -8,20 +8,20 @@
  ## Datas dos Sprints (Entregas):
 
 >>### Sprint 1 - 13/3 - 05/04
->>  [x] Encontrar Problemas no Banco de Dados </br>
->>  [x] Definir problema </br>
->>  [x] Criar Esboço de Dashboard </br>
+>>  - [x] Encontrar Problemas no Banco de Dados </br>
+>>  - [x] Definir problema </br>
+>>  - [x] Criar Esboço de Dashboard </br>
 >
 >>### Sprint 2 - 06/04 - 26/04
->>  [x] Analisar e refinar os dados </br>
->>  [x] Desenvolver o uso das ferramentas </br>
->>  [x] Assignar tarefas no Jira </br>
->>  [x] Validar proposta com o cliente </br>
+>>  - [x] Analisar e refinar os dados </br>
+>>  - [x] Desenvolver o uso das ferramentas </br>
+>>  - [x] Assignar tarefas no Jira </br>
+>>  - [x] Validar proposta com o cliente </br>
 >>
 >>
 >
 >>### Sprint 3 - 27/04 - 17/05
->> [ ] Aprimorar o Dashboard </br>
+>> - [ ] Aprimorar o Dashboard </br>
 >>
 >>
 >
