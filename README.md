@@ -13,10 +13,10 @@
 >>  - [x] Criar Esboço de Dashboard </br>
 >
 >>### Sprint 2 - 06/04 - 26/04
->>  - [x] Analisar e refinar os dados </br>
->>  - [x] Desenvolver o uso das ferramentas </br>
+>>  - [ ] Analisar e refinar os dados </br>
+>>  - [ ] Desenvolver o uso das ferramentas </br>
 >>  - [x] Assignar tarefas no Jira </br>
->>  - [x] Validar proposta com o cliente </br>
+>>  - [ ] Validar proposta com o cliente </br>
 >>
 >>
 >
