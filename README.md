@@ -1,6 +1,8 @@
 # Projeto Roteirizacao
 
+# Objetivo:
 
+## *Desenvolver um Dashboard visual em Power BI que apresente uma análise detalhada dos 
   
  ## Datas dos Sprints (Entregas):
 
