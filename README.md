@@ -25,10 +25,10 @@
 >>
 
 ## Membros:
-  * PO: Reinaldo Siqueira Ramos 
+  * PO: Marcelo Rodolfo Pereira Batista  
   * Master Project: João Pedro 
   * Janna Isy
-  * Marcelo Rodolfo Pereira Batista
+  * Reinaldo Siqueira Ramos
   * Rhuan Henrique
   
 
