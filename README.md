@@ -25,18 +25,17 @@
 >>
 
 ## Membros:
-  * PO: Marcelo Rodolfo Pereira Batista 
-  * Scrum Master: João Pedro 
+  * PO: Reinaldo Siqueira Ramos 
+  * Master Project: João Pedro 
   * Janna Isy
-  * Reinaldo Siqueira Ramos
+  * Marcelo Rodolfo Pereira Batista
   * Rhuan Henrique
   
 
-## Técnologias
-  > GitHub 
-  >
-  > PowerBI
-  <!-- ![](https://cdn-icons-png.flaticon.com/512/25/25231.png) -->
+## Tecnologias
+
+  ![tecnologias](https://user-images.githubusercontent.com/127357087/231601080-de681b3f-739e-4f66-a30f-543f4da6501a.png)
+
 
 ### LinkedIn:
 
