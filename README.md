@@ -2,7 +2,7 @@
 
 # Objetivo:
 
-## *"Desenvolver um Dashboard visual em Power BI que apresente uma análise detalhada dos dados envolvendo a roteirização apresentados, de forma que atenda a solicitação do cliente e gere um impacto positivo no projeto."*
+## "Desenvolver um Dashboard visual em Power BI que apresente uma análise detalhada dos dados envolvendo a roteirização apresentados, de forma que atenda a solicitação do cliente e gere um impacto positivo no projeto."
   
  ## Datas dos Sprints (Entregas):
 
