@@ -1,21 +1,27 @@
-# Projeto Roteirizacao
+# Projeto Roteirização
 
+# Objetivo:
+
+![Sem título](https://user-images.githubusercontent.com/127357087/231608323-36541d6b-7d29-4d4a-925b-01cc943af7bf.png)
 
   
  ## Datas dos Sprints (Entregas):
 
 >>### Sprint 1 - 13/3 - 05/04
->>  - Encontrar Problemas no Banco de Dados
->>  - Definir problema
->>  - Criar Esboço de Dashboard
+>>  - [x] Encontrar Problemas no Banco de Dados </br>
+>>  - [x] Definir problema </br>
+>>  - [x] Criar Esboço de Dashboard </br>
 >
 >>### Sprint 2 - 06/04 - 26/04
->>
+>>  - [x] Analisar e refinar os dados </br>
+>>  - [x] Desenvolver o uso das ferramentas </br>
+>>  - [x] Assignar tarefas no Jira </br>
+>>  - [x] Validar proposta com o cliente </br>
 >>
 >>
 >
 >>### Sprint 3 - 27/04 - 17/05
->>
+>> - [ ] Aprimorar o Dashboard </br>
 >>
 >>
 >
@@ -25,18 +31,16 @@
 >>
 
 ## Membros:
-  * PO: Janna 
-  * Master Project: João Pedro 
-  * Reinaldo Siqueira Ramos 
-  * Marcelo Rodolfo Pereira Batista
-  * Rhuan
+  * PO: Marcelo Rodolfo Pereira Batista  
+  * Scrum Master: João Pedro 
+  * Janna Isy
+  * Reinaldo Siqueira Ramos
+  * Rhuan Henrique
   
 
-## Técnologias
-  > GitHub 
-  >
-  > PowerBI
-  <!-- ![](https://cdn-icons-png.flaticon.com/512/25/25231.png) -->
+## Tecnologias
+  <img src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" width="200px" height="100px"> <img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" width="200px" height="100px"> <img src="https://images.ctfassets.net/8j5aqoy0ts8s/7kGDQeqA19pWs9sra18nb5/9a431dc04251e57027d94b2d510cb762/jira_white_on_blue_logo.png" width="200px" height="100px">
+
 
 ### LinkedIn:
 
