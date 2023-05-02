@@ -51,4 +51,4 @@
 | [João Pedro Félix Vicente](https://www.linkedin.com/in/jo%C3%A3o-pedro-f%C3%A9lix-vicente/) | <img src="./assets/joao.jpg" width=150px> |
 | [Reinaldo Ramos](linkedin.com/in/reinaldo-ramos-857548113) | <img src="./assets/reinaldo.jpg" width="150px"> |
 | [Marcelo Batista](https://www.linkedin.com/in/marcelo-batista-8529b0200/) | <img src="./assets/marcelo.jpg" width="150px"> |
-| [Rhuan Henrique]() | <img src="" width="150px">  |
+| [Rhuan Henrique](https://br.linkedin.com/in/rhuan-henrique-31752217a?trk=people-guest_people_search-card) | <img src="" width="150px">  |
