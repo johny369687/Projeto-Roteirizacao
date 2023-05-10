@@ -2,7 +2,9 @@
 
 # Objetivo:
 
-![Sem título](https://user-images.githubusercontent.com/127357087/231608323-36541d6b-7d29-4d4a-925b-01cc943af7bf.png)
+<h1>
+<b>"Desenvovler um Dashboard visual em PowerBI que apresente uma análise detalhada dos dados envolvendo a roteirização apresentados, de forma que atenda a soliticação do cliente e gere um impacto positivo no projeto."</b>
+
 
   
  ## Datas dos Sprints (Entregas):
@@ -30,6 +32,8 @@
 >>
 >>
 >>
+
+## Sprints
 
 ## Membros:
   * PO: Marcelo Rodolfo Pereira Batista  
