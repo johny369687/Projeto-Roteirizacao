@@ -3,7 +3,7 @@
 # Objetivo:
 <img src="./assets/container-container-port-port-cargo.jpg" width="750px">
 <h1>
-<b>"Desenvovler um Dashboard visual em PowerBI que apresente uma análise detalhada dos dados envolvendo a roteirização apresentados, de forma que atenda a soliticação do cliente e gere um impacto positivo no projeto."</b>
+<b>"Desenvolver um Dashboard visual em PowerBI que apresente uma análise detalhada dos dados envolvendo a roteirização apresentados, de forma que atenda a soliticação do cliente e gere um impacto positivo no projeto."</b>
 
 
   
@@ -24,8 +24,12 @@
 >
 >>### Sprint 3 - 27/04 - 17/05
 >> - [ ] Aprimorar o Dashboard 
->> - [ ] Desenvolver histórico de desnevolvimento 
->>
+>> - [ ] Desenvolver histórico de desenvolvimento 
+>> - [ ] Calcular as distâncias em haversine
+>> - [ ] Encontar o fator de circuito para cada rota
+>> - [ ] Aprimorar o dashboard
+>> - [ ] Resolver documentação
+>> - [ ] Preencher requisitos restantes da análise
 >>
 >
 >>### Sprint 4 - 18/05 - 07/06
