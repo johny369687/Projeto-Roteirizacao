@@ -23,8 +23,7 @@
 >>
 >
 >>### Sprint 3 - 27/04 - 17/05
->> - [ ] Aprimorar o Dashboard 
->> - [ ] Desenvolver histórico de desenvolvimento 
+>> - [ ] Desenvolver relatório de desenvolvimento 
 >> - [ ] Calcular as distâncias em haversine
 >> - [ ] Encontar o fator de circuito para cada rota
 >> - [ ] Aprimorar o dashboard
