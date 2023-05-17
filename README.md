@@ -39,8 +39,8 @@
 ## Sprints
 
 ## Membros: 
-  * Scrum Master: João Pedro 
   * PO: Janna Isy
+  * Scrum Master: João Pedro 
   * Reinaldo Siqueira Ramos
   * Rhuan Henrique
   
