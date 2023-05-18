@@ -40,7 +40,6 @@
 
 ### 1ª Sprint
 
-
 ## Membros: 
   * PO: Janna Isy
   * Scrum Master: João Pedro 
