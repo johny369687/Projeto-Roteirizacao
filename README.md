@@ -40,6 +40,15 @@
 
 ### 1ª Sprint
 
+<img src=".//assets/Sprint 1 Showcase/Excel.png" width="700px" height="400px" >
+<img src=".//assets/Sprint 1 Showcase/BI.png" width="700px" height="400px">
+
+### 2ª Sprint
+
+### 3ª Sprint
+
+### 4ª Sprint
+
 ## Membros: 
   * PO: Janna Isy
   * Scrum Master: João Pedro 
