@@ -57,7 +57,7 @@ Após a entrega da segunda sprint foram adquiridas ferramentas de trabalho para 
 
 | FATOR DE CIRCUITO | RELATÓRIO DE DESENVOLVIMENTO |
 |-|-|
-|<img src=".//assets/Sprint 3 Showcase/rotas atualizadas VRP.png" width="400px" height="200px" > | <img src=".//assets/Sprint 3 Showcase/BI.png" width="400px" height="200px">|
+|<img src=".//assets/Sprint 3 Showcase/rotas atualizadas VRP.png" width="400px" height="200px" > | <img src=".//assets/Sprint 3 Showcase/jira relatório.png" width="400px" height="200px">|
 
 ### 4ª Sprint
 
