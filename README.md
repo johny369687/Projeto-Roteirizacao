@@ -83,4 +83,4 @@ Após a entrega da segunda sprint foram adquiridas ferramentas de trabalho para 
 | [Jannainna Isy](https://www.linkedin.com/in/jannainna-isy-nascimento-a9767521b/) | <img src="./assets/janna.jpg" width=150px> |
 | [João Pedro Félix Vicente](https://www.linkedin.com/in/jo%C3%A3o-pedro-f%C3%A9lix-vicente/) | <img src="./assets/joao.jpg" width=150px> |
 | [Reinaldo Ramos](linkedin.com/in/reinaldo-ramos-857548113) | <img src="./assets/reinaldo.jpg" width="150px"> |
-| [Rhuan Henrique](https://br.linkedin.com/in/rhuan-henrique-31752217a?trk=people-guest_people_search-card) | <img src="" width="150px">  |
+| [Rhuan Henrique](https://br.linkedin.com/in/rhuan-henrique-31752217a?trk=people-guest_people_search-card) | <img src="./assets/rhuan.png" width="150px">  |
