@@ -39,15 +39,29 @@
 ## Sprints
 
 ### 1ª Sprint
-
-<img src=".//assets/Sprint 1 Showcase/Excel.png" width="700px" height="400px" >
-<img src=".//assets/Sprint 1 Showcase/BI.png" width="700px" height="400px">
+A primeira sprint foi utilizado para analisar e definir os problemas principais, foram analisadas planilhas de fabricas, clientes e rotas, onde foram observadas divergências e apontado ao cliente, após definir e analisar os problemas deu-se início na criação de um esboço para apresentar como dashboard.
+| EXCEL | POWER BI (Dashboard) |
+|--|--|
+| <img src=".//assets/Sprint 1 Showcase/Excel.png" width="400px" height="200px" > | <img src=".//assets/Sprint 1 Showcase/BI.png" width="400px" height="200px"> |
 
 ### 2ª Sprint
 
+Após a entrega da primeira sprint foi possível observar o que o cliente gostaria de receber nas demais sprints, com isso foi necessário atribuir ferramentas para o trabalho da equipe como o Jira software onde foram atribuídas tarefas para os integrantes e o GitHub para movimentação de dados e arquivos e criar um roteiro de trabalho. Foram analisados e refinados os dados para assim validar as propostas com o cliente.
+
+| GITHUB | JIRA SOFTWARE |
+|-|-|
+|<img src=".//assets/Sprint 2 Showcase/github.png" width="400px" height="200px" > | <img src=".//assets/Sprint 2 Showcase/jira software.png" width="400px" height="200px"> |
 ### 3ª Sprint
 
+Após a entrega da segunda sprint foram adquiridas ferramentas de trabalho para calcular a distância em haversine, encontrar o fator de circuito de cada uma das rotas, assim trabalhando para aprimorar o painel e os documentos, ouve o preenchimento de alguns requisitos importante da analise e foi gerado o relatório de desenvolvimento do dashboard.
+
+|||
+|-|-|
+|<img src=".//assets/Sprint 2 Showcase/Excel.png" width="400px" height="200px" > | <img src=".//assets/Sprint 2 Showcase/BI.png" width="400px" height="200px">|
+
 ### 4ª Sprint
+
+#### (A ser decidido)
 
 ## Membros: 
   * PO: Janna Isy
