@@ -55,9 +55,9 @@ Após a entrega da primeira sprint foi possível observar o que o cliente gostar
 
 Após a entrega da segunda sprint foram adquiridas ferramentas de trabalho para calcular a distância em haversine, encontrar o fator de circuito de cada uma das rotas, assim trabalhando para aprimorar o painel e os documentos, ouve o preenchimento de alguns requisitos importante da analise e foi gerado o relatório de desenvolvimento do dashboard.
 
-|||
+| FATOR DE CIRCUITO | RELATÓRIO DE DESENVOLVIMENTO |
 |-|-|
-|<img src=".//assets/Sprint 2 Showcase/Excel.png" width="400px" height="200px" > | <img src=".//assets/Sprint 2 Showcase/BI.png" width="400px" height="200px">|
+|<img src=".//assets/Sprint 3 Showcase/rotas atualizadas VRP.png" width="400px" height="200px" > | <img src=".//assets/Sprint 3 Showcase/BI.png" width="400px" height="200px">|
 
 ### 4ª Sprint
 
