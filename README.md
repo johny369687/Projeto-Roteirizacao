@@ -1,13 +1,29 @@
 # Projeto Roteirização
+# Índice
 
-# Objetivo:
+ - <a>Quem somos?</a>
+ - <a>Objetivo do Projeto</a>
+ - <a>Objetivos por Sprint</a>
+ - <a>Resumo das Sprints</a>
+ - <a>Membros</a>
+ - <a>Técnologias</a>
+ - <a>LinkedIn</a>
+
+<br>
+<br>
+
+
+# Quem somos?
+
+<font align="center" size="100">Delta log <img src="./assets/logo-delta-log.png" width="100px" height="100px" align="center"> </font>
+
+# Objetivo do Projeto:
 <img src="./assets/container-container-port-port-cargo.jpg" width="750px">
 <h1>
 <b>"Desenvolver um Dashboard visual em PowerBI que apresente uma análise detalhada dos dados envolvendo a roteirização apresentados, de forma que atenda a soliticação do cliente e gere um impacto positivo no projeto."</b>
 
 
-  
- ## Datas dos Sprints (Entregas):
+ ## Objetivos por Sprint:
 
 >>### Sprint 1 - 13/3 - 05/04
 >>  - [x] Encontrar Problemas no Banco de Dados </br>
@@ -23,6 +39,16 @@
 >>
 >
 >>### Sprint 3 - 27/04 - 17/05
+>> - [x] Desenvolver relatório de desenvolvimento 
+>> - [x] Calcular as distâncias em haversine
+>> - [x] Encontar o fator de circuito para cada rota
+>> - [x] Aprimorar o dashboard
+>> - [x] Resolver documentação
+>> - [x] Preencher requisitos restantes da análise <br>
+>> 
+>
+>>### Sprint 4 - 18/05 - 07/06
+>>
 >> - [ ] Desenvolver relatório de desenvolvimento 
 >> - [ ] Calcular as distâncias em haversine
 >> - [ ] Encontar o fator de circuito para cada rota
@@ -30,13 +56,8 @@
 >> - [ ] Resolver documentação
 >> - [ ] Preencher requisitos restantes da análise
 >>
->
->>### Sprint 4 - 18/05 - 07/06
->>
->>
->>
 
-## Sprints
+## Resumo das Sprints
 
 ### 1ª Sprint
 A primeira sprint foi utilizado para analisar e definir os problemas principais, foram analisadas planilhas de fabricas, clientes e rotas, onde foram observadas divergências e apontado ao cliente, após definir e analisar os problemas deu-se início na criação de um esboço para apresentar como dashboard.
