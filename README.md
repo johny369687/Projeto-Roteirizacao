@@ -15,7 +15,7 @@
 
 # Quem somos?
 
-<font align="center" size="100">Delta log <img src="./assets/logo-delta-log.png" width="100px" height="100px" align="center"> </font>
+<font size="100">Delta log <img src="./assets/logo-delta-log.png" width="100px" height="100px" align="center"> </font>
 
 # Objetivo do Projeto:
 <img src="./assets/container-container-port-port-cargo.jpg" width="750px">
