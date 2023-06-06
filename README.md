@@ -19,7 +19,19 @@
 <br>
 <br>
 
-<b>A Delta Log é uma empresa logística comprometida em melhorar continuamente seus serviços. Com adoção de tecnologias avançadas, parcerias estratégicas e foco na qualidade, ela se destaca no setor, atendendo clientes em várias regiões de forma confiável e pontual. Além disso, a Delta Log demonstra preocupação com a sustentabilidade, implementando medidas para reduzir seu impacto ambiental. Ao longo do tempo, ela se tornou uma referência respeitada no mercado, valorizando o atendimento ao cliente e a eficiência operacional.</b>
+ - <h2><b> História </b></h2>
+    
+    - <b>A Delta Log é uma empresa logística comprometida em melhorar continuamente seus serviços. Com adoção de tecnologias avançadas, parcerias estratégicas e foco na qualidade, se destacando no setor logístico, atendendo clientes em várias regiões de forma confiável e pontual. Além disso, a Delta Log demonstra preocupação com a sustentabilidade, implementando medidas para reduzir seu impacto ambiental. Ao longo do tempo, ela se tornou uma referência respeitada no mercado, valorizando o atendimento ao cliente e a eficiência operacional.</b> 
+<br>
+<br>
+
+ - <h2><b> Visão </b></h2>
+
+    - Qualidade
+    - Inovação
+    - Sustentabilidade
+    - Satisfação
+
 
 <br>
 
@@ -55,12 +67,12 @@
 >
 >>### Sprint 4 - 18/05 - 07/06
 >>
->> - [ ] Desenvolver relatório de desenvolvimento 
->> - [ ] Calcular as distâncias em haversine
->> - [ ] Encontar o fator de circuito para cada rota
->> - [ ] Aprimorar o dashboard
->> - [ ] Resolver documentação
->> - [ ] Preencher requisitos restantes da análise
+>> - [x] Desenvolvimento de apresentação
+>> - [x] Refinamento de dados
+>> - [x] Aprimorar dashboard baseado no feedback
+>> - [x] 
+>> - [x] 
+>> - [x] 
 >>
 
 ## <b id="resumo-das-sprints">Resumo das Sprints</b>
