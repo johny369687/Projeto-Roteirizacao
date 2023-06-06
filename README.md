@@ -1,29 +1,35 @@
 # Projeto Roteirização
 # Índice
 
- - <a>Quem somos?</a>
- - <a>Objetivo do Projeto</a>
- - <a>Objetivos por Sprint</a>
- - <a>Resumo das Sprints</a>
- - <a>Membros</a>
- - <a>Técnologias</a>
- - <a>LinkedIn</a>
+ - [Quem somos?](#quem-somos)
+ - [Objetivo do Projeto](#objetivo-do-projeto)
+ - [Objetivos por Sprint](#objetivos-por-sprint)
+ - [Resumo das Sprints](#resumo-das-sprints)
+ - [Membros](#membros)
+ - [Tecnologias](#tecnologias)
+ - [LinkedIn](#linkedIn)
 
 <br>
 <br>
 
 
-# Quem somos?
+# <b id="quem-somos">Quem somos?</b>
 
 <img src="./assets/teste.png" width="500px" height="100px" align="center">
+<br>
+<br>
 
-# Objetivo do Projeto:
+<b>A Delta Log é uma empresa logística comprometida em melhorar continuamente seus serviços. Com adoção de tecnologias avançadas, parcerias estratégicas e foco na qualidade, ela se destaca no setor, atendendo clientes em várias regiões de forma confiável e pontual. Além disso, a Delta Log demonstra preocupação com a sustentabilidade, implementando medidas para reduzir seu impacto ambiental. Ao longo do tempo, ela se tornou uma referência respeitada no mercado, valorizando o atendimento ao cliente e a eficiência operacional.</b>
+
+<br>
+
+# <b id="objetivo-do-projeto">Objetivo do Projeto:</b>
 <h1>
 <b>"Desenvolver um Dashboard visual em PowerBI que apresente uma análise detalhada dos dados envolvendo a roteirização apresentados, de forma que atenda a soliticação do cliente e gere um impacto positivo no projeto."</b>
 </h1>
 
 
- ## Objetivos por Sprint:
+ ## <b id="objetivos-por-sprint">Objetivos por Sprint:</b>
 
 >>### Sprint 1 - 13/3 - 05/04
 >>  - [x] Encontrar Problemas no Banco de Dados </br>
@@ -57,7 +63,7 @@
 >> - [ ] Preencher requisitos restantes da análise
 >>
 
-## Resumo das Sprints
+## <b id="resumo-das-sprints">Resumo das Sprints</b>
 
 ### 1ª Sprint
 A primeira sprint foi utilizado para analisar e definir os problemas principais, foram analisadas planilhas de fabricas, clientes e rotas, onde foram observadas divergências e apontado ao cliente, após definir e analisar os problemas deu-se início na criação de um esboço para apresentar como dashboard.
@@ -84,20 +90,20 @@ Após a entrega da segunda sprint foram adquiridas ferramentas de trabalho para 
 
 #### (A ser decidido)
 
-## Membros: 
+## <b id="membros">Membros:</b> 
   * PO: Janna Isy
   * Scrum Master: João Pedro 
   * Reinaldo Siqueira Ramos
   * Rhuan Henrique
   
 
-## Tecnologias
+## <b id="tecnologias">Tecnologias</b>
   <img src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" width="200px" height="100px"> <img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" width="200px" height="100px"> <img src="https://images.ctfassets.net/8j5aqoy0ts8s/7kGDQeqA19pWs9sra18nb5/9a431dc04251e57027d94b2d510cb762/jira_white_on_blue_logo.png" width="200px" height="100px"> <img src=".//assets/excel.jpg" width="200px" height="100px">
   <img src=".//assets/bing maps logo.jpg" width="200px" height="100px">
 
 
 
-### LinkedIn:
+## <b id="linkedIn">LinkedIn:</b>
 
 |  | |
 | ----------- | ----------- |
