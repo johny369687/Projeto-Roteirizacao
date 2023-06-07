@@ -101,7 +101,7 @@ Com base no feedback da 3ª Sprint, a equipe trabalhou apresentar melhor o objet
 
 | MAPAS DASHBOARD |  |
 |-|-|
-|<img src=".//assets/Sprint 4 Showcase/Dashboard Maps.png" width="400px" height="200px" > | <img src=".//assets/Sprint 4 Showcase/.png" width="400px" height="200px">|
+|<img src=".//assets/Sprint 4 Showcase/Dashboard Maps.png" width="400px" height="200px" > | <img src=".//assets/Sprint 4 Showcase/projeto - 1.png" width="400px" height="200px">|
 
 ## <b id="membros">Membros:</b> 
   * PO: Janna Isy
