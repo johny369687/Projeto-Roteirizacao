@@ -67,12 +67,9 @@
 >
 >>### Sprint 4 - 18/05 - 07/06
 >>
->> - [x] Desenvolvimento de apresentação
 >> - [x] Refinamento de dados
 >> - [x] Aprimorar dashboard baseado no feedback
->> - [x] 
->> - [x] 
->> - [x] 
+>> - [x] Desenvolvimento de apresentação
 >>
 
 ## <b id="resumo-das-sprints">Resumo das Sprints</b>
@@ -92,7 +89,7 @@ Após a entrega da primeira sprint foi possível observar o que o cliente gostar
 |<img src=".//assets/Sprint 2 Showcase/github.png" width="400px" height="200px" > | <img src=".//assets/Sprint 2 Showcase/jira software.png" width="400px" height="200px"> |
 ### 3ª Sprint
 
-Após a entrega da segunda sprint foram adquiridas ferramentas de trabalho para calcular a distância em haversine, encontrar o fator de circuito de cada uma das rotas, assim trabalhando para aprimorar o painel e os documentos, ouve o preenchimento de alguns requisitos importante da analise e foi gerado o relatório de desenvolvimento do dashboard.
+Após a entrega da segunda sprint foram adquiridas ferramentas de trabalho para calcular a distância em haversine, encontrar o fator de circuito de cada uma das rotas, assim trabalhando para aprimorar o painel e os documentos, houve o preenchimento de alguns requisitos importante da análise e foi gerado o relatório de desenvolvimento do dashboard.
 
 | FATOR DE CIRCUITO | RELATÓRIO DE DESENVOLVIMENTO |
 |-|-|
@@ -100,7 +97,11 @@ Após a entrega da segunda sprint foram adquiridas ferramentas de trabalho para 
 
 ### 4ª Sprint
 
-#### (A ser decidido)
+Com base no feedback da 3ª Sprint, a equipe trabalhou apresentar melhor o objetivo principal do projeto, apresentando informações diretas com relação aos custos de frete e um mapa com as posições de cada um dos centros de distribuição em um mapa regional disponibilizado pelo bing maps. 
+
+| MAPAS DASHBOARD |  |
+|-|-|
+|<img src=".//assets/Sprint 4 Showcase/Dashboard Maps.png" width="400px" height="200px" > | <img src=".//assets/Sprint 4 Showcase/.png" width="400px" height="200px">|
 
 ## <b id="membros">Membros:</b> 
   * PO: Janna Isy
