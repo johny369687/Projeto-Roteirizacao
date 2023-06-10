@@ -97,7 +97,7 @@ Após a entrega da segunda sprint foram adquiridas ferramentas de trabalho para 
 
 ### 4ª Sprint
 
-Com base no feedback da 3ª Sprint, a equipe trabalhou apresentar melhor o objetivo principal do projeto, apresentando informações diretas com relação aos custos de frete e um mapa com as posições de cada um dos centros de distribuição em um mapa regional disponibilizado pelo bing maps. 
+Com todas as observações e considerações finais apresentadas nas sprints anteriores, foi elaborado e aprimorado um dashboard final, mostrando o objetivo principal da equipe em relação ao projeto, trabalhamos com diversas ferramentas para que fosse possível apresentar e observar em especifico cada cliente em relação aos centros de distribuição em um mapa da região, sendo possível analisar informações especificas como por exemplo custos de frete, assim possibilitando um dashboard informativo e interativo em Power BI. 
 
 | MAPAS DASHBOARD |  |
 |-|-|
