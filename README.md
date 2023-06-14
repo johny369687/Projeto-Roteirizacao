@@ -99,7 +99,7 @@ Após a entrega da segunda sprint foram adquiridas ferramentas de trabalho para 
 
 Com todas as observações e considerações finais apresentadas nas sprints anteriores, foi elaborado e aprimorado um dashboard final, mostrando o objetivo principal da equipe em relação ao projeto, trabalhamos com diversas ferramentas para que fosse possível apresentar e observar em especifico cada cliente em relação aos centros de distribuição em um mapa da região, sendo possível analisar informações especificas como por exemplo custos de frete, assim possibilitando um dashboard informativo e interativo em Power BI. 
 
-| MAPAS DASHBOARD |  |
+| MAPAS DASHBOARD | ANÁLISE DE FRETE |
 |-|-|
 |<img src=".//assets/Sprint 4 Showcase/Dashboard Maps.png" width="400px" height="200px" > | <img src=".//assets/Sprint 4 Showcase/projeto - 1.png" width="400px" height="200px">|
 
