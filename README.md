@@ -113,6 +113,7 @@ Com todas as observações e considerações finais apresentadas nas sprints ant
 ## <b id="tecnologias">Tecnologias</b>
   <img src="https://datascientest.com/es/wp-content/uploads/sites/7/2020/10/power-bi-logo-1.jpg" width="200px" height="100px"> <img src="https://allvectorlogo.com/img/2021/12/github-logo-vector.png" width="200px" height="100px"> <img src="https://images.ctfassets.net/8j5aqoy0ts8s/7kGDQeqA19pWs9sra18nb5/9a431dc04251e57027d94b2d510cb762/jira_white_on_blue_logo.png" width="200px" height="100px"> <img src=".//assets/excel.jpg" width="200px" height="100px">
   <img src=".//assets/bing maps logo.jpg" width="200px" height="100px">
+  <img src=".//assets/vrp.png" width="200px" height="100px">
 
 
 
